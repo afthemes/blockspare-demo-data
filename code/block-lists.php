@@ -34,7 +34,7 @@ class Blocksspare_Block_Library {
           require_once BLOCKSPARE_BLOCK_LIBRARY_PATH .'express-post-grid/class-express-post-grid.php';
           require_once BLOCKSPARE_BLOCK_LIBRARY_PATH .'hero-banner-1/class-hero-banner-1.php';
           require_once BLOCKSPARE_BLOCK_LIBRARY_PATH .'hero-banner-2/class-hero-banner-2.php';
-          require_once BLOCKSPARE_BLOCK_LIBRARY_PATH .'icon/class-icon.php';
+        //require_once BLOCKSPARE_BLOCK_LIBRARY_PATH .'icon/class-icon.php';
           require_once BLOCKSPARE_BLOCK_LIBRARY_PATH .'icon-list/class-icon-list.php';
         //require_once BLOCKSPARE_BLOCK_LIBRARY_PATH .'image-masonry/class-image-masonry.php';
           require_once BLOCKSPARE_BLOCK_LIBRARY_PATH .'logo-grid/class-logo-grid.php';
